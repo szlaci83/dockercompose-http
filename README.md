@@ -19,7 +19,7 @@ start an available docker-compose project
 ```
 
 ### POST /stop
-start an available docker-compose project
+stop an available docker-compose project
 ```
 {
     "project" : "name_of_the_project_to_stop"
